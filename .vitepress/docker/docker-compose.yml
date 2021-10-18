@@ -1,11 +1,11 @@
 version: "3.5"
 
 services:
-  tumo-boot-ui:
-    image: tumo-boot-docs
+  tumo-cloud-docs:
+    image: tumo-cloud-docs
     build:
       context: ../
     restart: always
-    container_name: tumo-boot-docs
+    container_name: tumo-cloud-docs
     ports:
-      - 8081:80
+      - 8082:80

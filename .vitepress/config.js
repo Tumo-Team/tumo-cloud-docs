@@ -17,7 +17,7 @@
     editLinkText: '为此页提供修改建议',
     nav: createNav(),
     sidebar: createSidebar(),
-    pageHeadHtml: '<div><p align="center"><img src="http://cdn.tycoding.cn/MIK-WxRzP9.png" /></p><p align="center"><a                href="https://github.com/Tumo-Team"                target="_blank"              ><strong>Tumo Team —— Tumo-Boot</strong></a></p><ul><li>Tumo-Boot演示地址：<a                  href="http://boot.tycoding.cn"                  target="_blank"                  rel="noopener noreferrer"                >http://boot.tycoding.cn</a></li><li>Tumo-Boot在线文档：<a                  href="http://docs.boot.tycoding.cn"                  target="_blank"                  rel="noopener noreferrer"                >http://docs.boot.tycoding.cn</a></li><li>Tumo-Boot后端地址：<a                  href="https://github.com/Tumo-Team/Tumo-Boot"                  target="_blank"                  rel="noopener noreferrer"                >https://github.com/Tumo-Team/Tumo-Boot</a></li><li>Tumo-Boot前端地址：<a                  href="https://github.com/Tumo-Team/Tumo-Boot-UI"                  target="_blank"                  rel="noopener noreferrer"                >https://github.com/Tumo-Team/Tumo-Boot-UI</a></li><li>Tumo-Boot文档地址：<a                  href="https://github.com/Tumo-Team/Tumo-Boot-Docs"                  target="_blank"                  rel="noopener noreferrer"                >https://github.com/Tumo-Team/Tumo-Boot-Docs</a></li></ul>',
+    pageHeadHtml: '<div><p align="center"><img src="http://tycoding.cn/imgs/MIK-WxRzP9.png" /></p><p align="center"><a href="https://github.com/Tumo-Team" target="_blank"><strong>Tumo Team —— Tumo-Cloud</strong></a></p><ul><li>Tumo-Cloud演示地址：<a href="http://cloud.tycoding.cn" target="_blank"        rel="noopener noreferrer">http://cloud.tycoding.cn</a></li><li>Tumo-Cloud在线文档：<a href="http://docs.cloud.tycoding.cn" target="_blank"        rel="noopener noreferrer">http://docs.cloud.tycoding.cn</a></li><li>Tumo-Cloud后端地址：<a href="https://github.com/Tumo-Team/tumo-cloud" target="_blank"        rel="noopener noreferrer">https://github.com/Tumo-Team/tumo-cloud</a></li><li>Tumo-Cloud前端地址：<a href="https://github.com/Tumo-Team/tumo-cloud-ui" target="_blank"        rel="noopener noreferrer">https://github.com/Tumo-Team/tumo-cloud-ui</a></li><li>Tumo-Cloud文档地址：<a href="https://github.com/Tumo-Team/tumo-cloud-docs" target="_blank"        rel="noopener noreferrer">https://github.com/Tumo-Team/tumo-cloud-docs</a></li></ul>',
   },
 };
 
@@ -155,7 +155,7 @@ function createSidebar() {
           },
         ],
       },
-      
+
     ],
 
     '/docs/deep': [
@@ -176,7 +176,7 @@ function createSidebar() {
           },
         ],
       },
-      
+
     ],
   };
 }

@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="http://cdn.tycoding.cn/MIK-WxRzP9.png" />
+    <img src="http://tycoding.cn/imgs/MIK-WxRzP9.png" />
 </p>
 <p align="center">
     <a href="https://github.com/Tumo-Team" target="_blank">
@@ -23,13 +23,7 @@ public static void main(String[] args){
 }
 ```
 
-**特点：**
-
-1. 代码简洁、规范。
-2. 提供最后端系统最基础的权限体系模块。
-3. 项目文档将涉及前后端、运维，带你一步步学习怎么优雅的开发。
-4. 基于SpringCloud最新版，单体架构，前后端分离。前端采用Ant-Design-Vue。
-5. 提供最最最基础、完善的项目开发文档，所有源码及文档都开源在GitHub上。
+**[Tumo-Cloud](https://github.com/Tumo-Team/tumo-cloud)** 是基于SpringCloud2020.x、SpringCloud Alibaba2021.x、SpringBoot2.5.x、SpringSecurity开发的权限管理项目，前端基于Node、Vue3.x、Ant-Design-Vue2.x开发。
 
 ## Docs
 
